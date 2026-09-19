@@ -1,2 +1,5 @@
-# slides-clone
-Interactive Google Slides clone — login with X/Google/Microsoft, import, shareable links
+# Slides clone
+
+Open [index.html](index.html) in a browser.
+
+Demo: sign in with X, Google, or Microsoft, create or import a deck, then Share for a `#s/{id}` link.
